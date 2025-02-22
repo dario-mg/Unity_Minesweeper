@@ -25,7 +25,7 @@ Este proyecto es una implementación del clásico juego de Buscaminas, desarroll
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/dario-mg/buscaminas-unity.git
+    git clone https://github.com/dario-mg/Unity_Minesweeper.git
     ```
 
 2. Abre el proyecto en Unity:
