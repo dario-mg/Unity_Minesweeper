@@ -1,0 +1,4 @@
+repository "Unity_Minesweeper/Unity_Minesweeper@6872731886870@cloud"
+  path "/"
+    br "/main"
+    co "/main"
